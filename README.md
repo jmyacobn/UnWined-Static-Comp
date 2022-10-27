@@ -27,7 +27,7 @@ HTML | CSS | Chrome Dev Tools
 - Fonts courtesy of [Google Fonts](https://fonts.google.com/) and [loremipsum](https://loremipsum.io/ultimate-list-of-lorem-ipsum-generators/)
 
 ## 🏆 Win
-- Learned to use CSS Grid for my cards as an alternative to CSS Flexbox Wrap
+Learning to use CSS Grid for my cards as an alternative to CSS Flexbox Wrap
 
 ## 😅 Challenge
-- Creating the overlay text in the cards so that it is legible on all background images
+Creating the overlay text in the cards so that it is legible on all background images
