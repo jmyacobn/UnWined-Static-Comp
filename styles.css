@@ -67,7 +67,7 @@ h1 {
 
 main {
   background-color: #f2e8cf;
-  height: 80vh;
+  min-height: 80vh;
   color: #432818;
   background-size: cover;
 }
@@ -79,4 +79,17 @@ h2 {
 
 .wine-cards {
   display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-gap: 2vh;
+  margin: 1vw;
+}
+
+.wine-card {
+  width: 23vw;
+  height: fit-content;
+}
+
+.link {
+  height: 5vh;
+  word-wrap: break-word;
 }
