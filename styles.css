@@ -88,18 +88,23 @@ h2 {
 
 .wine-card {
   width: 22vw;
+  background-color: #f4f1de;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.4);
 }
 
 .card-content {
-  background: #f4f1de;
   padding-left: 1vw;
   padding-bottom: 2vh;
 }
 
-.descriptor, .view-number {
+.descriptor{
   color: white;
   padding-top: 2vh;
+}
+
+.view-number {
+  color: white;
+  font-size: 2.5em;
 }
 
 .content {
