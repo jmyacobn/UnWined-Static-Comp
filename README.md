@@ -19,7 +19,7 @@ Jennifer Yacoubian [GitHub](https://github.com/jmyacobn) | [LinkedIn](https://ww
 Build a web page to match the layout and design of a provided comp (some creative license given for this project)
 
 ## 💻 Technology Used
-HTML | CSS | Chrome Dev Tools
+HTML | CSS | Chrome Dev Tools | VS Code
 
 ## 📣 Acknowledgements
 - Images and icons taken from [pexels](https://www.pexels.com/), [unsplash](https://unsplash.com/)
