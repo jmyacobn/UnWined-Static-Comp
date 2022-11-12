@@ -22,7 +22,7 @@ Build a web page to match the layout and design of a provided comp (some creativ
 HTML | CSS | Chrome Dev Tools | VS Code
 
 ## 📣 Acknowledgements
-- Images and icons taken from [flaticon](https://www.flaticon.com/),[pexels](https://www.pexels.com/), and [unsplash](https://unsplash.com/)
+- Images and icons taken from [flaticon](https://www.flaticon.com/), [pexels](https://www.pexels.com/), and [unsplash](https://unsplash.com/)
 - Colors for theme inspired by [coolors](https://coolors.co/)
 - Fonts courtesy of [Google Fonts](https://fonts.google.com/) and [loremipsum](https://loremipsum.io/ultimate-list-of-lorem-ipsum-generators/)
 
